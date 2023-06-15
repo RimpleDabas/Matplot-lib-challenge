@@ -15,18 +15,18 @@
 
   - The number of measurements for Capomulin and Ramicane are also higher than those taken for other drugs(aleast 60 more measurements were taken for these two) as analysed by the bar graph.
 
-  ![image](/Matplot-lib-challenge/New%20folder/Screenshot%202023-06-15%20121356.png)
+  ![image](New%20folder/Screenshot%202023-06-15%20121356.png)
 
   - Male mice involved in the study were two percent more than those of female mice as interpreted fro the pie graph.
-  ![image](/Matplot-lib-challenge/New%20folder/Screenshot%202023-06-15%20121516.png)
+  ![image](New%20folder/Screenshot%202023-06-15%20121516.png)
 
   - The final tumor volumes have less variation in volume for Capomulin and Ramicane in comparison to Infubinol and Ceftamin as shown by the box plot.
 
   - Final tumor volume data for the capomulin is skewed as interpreted by the median line on the box plot.
 
-  ![image](/Matplot-lib-challenge/New%20folder/box.png)
+  ![image](New%20folder/box.png)
 
   - The line plot for the tumor volume vs timepoint shows that Capomulin does have impact in reduction of the tumor volume over the period of time for different mice.
   
  - There is a strong correlation between the tumor volume and weight of the mice as given by the correlation value(0.84).
- ![image](/Matplot-lib-challenge/New%20folder/correlation.png)
+ ![image](New%20folder/correlation.png)
